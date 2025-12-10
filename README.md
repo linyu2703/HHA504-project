@@ -17,5 +17,5 @@ HHA504-project/
 * `use_case.md`: Defines the healthcare problem, the users, the data sources, and the high-level workflow.
 * `architecture_diagram.png`: A visual representation of the architecture components and data flow.
 * `architecture_plan.md`: Detailed plan including the service mapping (GCP services), a data flow narrative, security/governance basics, and cost and operational management considerations.
-* `reflection.md`: Person thoughts on the design, including points of confidence/uncertainty, alternative architectures, and future implementations.
+* `reflection.md`: Thoughts on the design, including points of confidence/uncertainty, alternative architectures, and future implementations.
 * `readme.md`: A detailed overview of the entire project with instructions.
