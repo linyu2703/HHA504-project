@@ -3,7 +3,7 @@
 ## Service Mapping
 
 | Layer | Service (Cloud) | Role in Solution | Related Assignment/Module |
-| :--- | :--- | :--- | :--- |
+| :----- | :----- | :----- | :----- |
 | Frotend/API | Cloud Run | Hosts the Flask web app, exposing the secure API endpoint and serving the operational dashboard. | Assignment 2 |
 | Compute | Cloud Functions | Serverless functions triggered by new files in Cloud Storage to execute the ETL process. | Assignment 3/Module 5 |
 | Storage | Cloud Storage | Stores high-volume, unstructured raw JSON data as the source for the Cloud Function trigger. | Module 6 |
